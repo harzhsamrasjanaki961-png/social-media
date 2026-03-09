@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>User Profile</title>
+</head>
+
+<body>
+
+<h1>User Profile</h1>
+
+<p>Name: Kaviya</p>
+<p>Bio: Web Development Learner</p>
+
+<a href="index.html">Back to Home</a>
+
+</body>
+</html>

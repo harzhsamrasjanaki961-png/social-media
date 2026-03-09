@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Mini Social Media</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<h1>Mini Social Media App</h1>
+
+<h3>Create a Post</h3>
+
+<textarea id="postInput" placeholder="What's on your mind?"></textarea>
+<br>
+<button onclick="createPost()">Post</button>
+
+<h2>Posts</h2>
+
+<div id="posts"></div>
+
+<a href="profile.html">Go to Profile</a>
+
+<script src="script.js"></script>
+
+</body>
+</html>
